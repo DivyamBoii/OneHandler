@@ -1,0 +1,9 @@
+{
+    "discordToken"  : "bot token here",    
+    "databaseToken" : "your mongodb uri here",
+    
+    "clientPrefix"  : "oh#",   
+    "developerId"   : ["your discord id here"],
+    
+    "logchannel": "logchannel id here"
+}
